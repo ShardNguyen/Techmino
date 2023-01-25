@@ -8,7 +8,7 @@ local langList={
     id="Bahasa Indonesia",
     ja="日本語",
     symbol="?????",
-    zh_code="Code(zh);"
+    zh_code="Code(zh);",
 	vi="Tiếng Việt",
 }
 local languages={

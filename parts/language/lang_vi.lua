@@ -748,19 +748,9 @@ return {
         },
         login_pw={
             title="Đăng Nhập",
-            login_mail="Đăng nhập bằng E-mail/Đăng Ký",
-            email="Email",
-            password="Mật khẩu",
-            showEmail="Hiện Email",
-            login="Đăng Nhập",
-        },
-        login_mail={
-            title="Đăng Nhập/Đăng Ký",
-            login_pw="Đăng nhập bằng mật khẩu",
-            email="Email",
-            send="Gửi mã",
-            code="Mã xác nhận",
-            verify="Xác nhận",
+            ticket="Mã Uỷ quyền",
+            authorize="Mở trang Uỷ quyền",
+            submit="Gửi",
         },
         reset_password={
             title="Đặt lại Mật khẩu",
@@ -784,7 +774,7 @@ return {
             rank="Độ khó",
             invis="Tàng hình",
             disappear="Biến mất",
-            tapFX="Tap FX",
+            tapFX="SFX chạm",
         },
         app_AtoZ={
             level="Level",
